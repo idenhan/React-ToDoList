@@ -4,7 +4,7 @@ This project was bootstrapped with CREATE REACT APP.
 
 ## DEMO
 
-[Click here](https://idenhan/github.io/React-ToDoList)
+__[Click here to see a running demo of the app](https://idenhan/github.io/React-ToDoList)
 
 ## Author
 
